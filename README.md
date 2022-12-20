@@ -7,6 +7,7 @@
 > github链接：[https://github.com/thompsonb/vecalign](https://github.com/thompsonb/vecalign)  
 >> 跑通测试用例：
 >> | | Strict| Lax |
+>> |----|----|----|
 >> |Precision|0.899|0.985|
 >> |Recall|0.904|0.987|
 >> |F1|0.902|0.986|  
